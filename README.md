@@ -16,3 +16,5 @@ Aplikasi split bill ini memungkinkan pengguna untuk menambahkan teman dan mengis
 
 Aplikasi ini menggunakan ReactJS dan useState. UseState digunakan untuk menyimpan data teman-teman pengguna dan data split bill.
 Berikut adalah contoh Screenshot Aplikasi :
+
+![image 1](https://github.com/Azizalfauzi/eat-n-split-app/assets/50761836/32e00c01-a471-4486-be59-84d0ac5886b2)
